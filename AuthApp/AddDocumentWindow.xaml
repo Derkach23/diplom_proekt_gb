@@ -1,0 +1,17 @@
+﻿<Window x:Class="AuthApp.AddDocumentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить документ" Height="300" Width="300">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Название документа" Margin="0,0,0,5"/>
+            <TextBox Name="DocumentNameTextBox" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Выберите файл" Margin="0,0,0,5"/>
+            <Button Content="Выбрать файл" Click="SelectFileButton_Click" Margin="0,0,0,10"/>
+            <TextBlock Name="SelectedFileTextBlock" Margin="0,0,0,10" Text="Файл не выбран"/>
+
+            <Button Content="Добавить документ" Click="AddButton_Click" HorizontalAlignment="Center" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

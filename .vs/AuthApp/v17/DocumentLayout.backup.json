@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\cSharp\\AuthApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\createtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\createtaskwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\createtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\createtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\tasksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\tasksview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\tasksview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\tasksview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\documentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\documentsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|d:\\projects\\csharp\\authapp\\authapp\\documentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{604E13C8-79A2-4C13-9C75-7465CD40AA00}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\documentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AuthApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAhwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:27:32.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\User.cs",
+              "RelativeDocumentMoniker": "AuthApp\\User.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\User.cs",
+              "RelativeToolTip": "AuthApp\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:50:25.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\MainPage.xaml.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "AuthApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:54:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthApp\\AuthService.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\AuthService.cs",
+              "RelativeToolTip": "AuthApp\\AuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:49:50.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "AuthApp\\DatabaseHelper.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\DatabaseHelper.cs",
+              "RelativeToolTip": "AuthApp\\DatabaseHelper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:32:56.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AuthApp\\MainWindow.xaml",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainWindow.xaml",
+              "RelativeToolTip": "AuthApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T13:27:37.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTaskWindow.xaml.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\CreateTaskWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\CreateTaskWindow.xaml.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\CreateTaskWindow.xaml.cs",
+              "RelativeToolTip": "AuthApp\\CreateTaskWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:09:33.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTaskWindow.xaml",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\CreateTaskWindow.xaml",
+              "RelativeDocumentMoniker": "AuthApp\\CreateTaskWindow.xaml",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\CreateTaskWindow.xaml",
+              "RelativeToolTip": "AuthApp\\CreateTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-03T07:08:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AuthApp\\MainPage.xaml",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\MainPage.xaml",
+              "RelativeToolTip": "AuthApp\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T13:53:29.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TasksView.xaml",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\TasksView.xaml",
+              "RelativeDocumentMoniker": "AuthApp\\TasksView.xaml",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\TasksView.xaml",
+              "RelativeToolTip": "AuthApp\\TasksView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T13:56:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\Task.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Task.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\Task.cs",
+              "RelativeToolTip": "AuthApp\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:06:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TasksView.xaml.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\TasksView.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\TasksView.xaml.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\TasksView.xaml.cs",
+              "RelativeToolTip": "AuthApp\\TasksView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:00:18.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentsView.xaml.cs",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\DocumentsView.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\DocumentsView.xaml.cs",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\DocumentsView.xaml.cs",
+              "RelativeToolTip": "AuthApp\\DocumentsView.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:59:28.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentsView.xaml",
+              "DocumentMoniker": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\DocumentsView.xaml",
+              "RelativeDocumentMoniker": "AuthApp\\DocumentsView.xaml",
+              "ToolTip": "D:\\projects\\cSharp\\AuthApp\\AuthApp\\DocumentsView.xaml",
+              "RelativeToolTip": "AuthApp\\DocumentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T13:56:56.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
